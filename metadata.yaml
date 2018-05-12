@@ -1,0 +1,29 @@
+_repo: PiratesA-comedy-in-one-act_39609
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Clements, Colin
+    alias: Clements, Colin Campbell
+    birthdate: 1894
+    deathdate: 1948
+    gutenberg_agent_id: '40109'
+    url: http://www.gutenberg.org/2009/agents/40109
+description: ''
+gutenberg_issued: '2012-05-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39609'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'England -- Social life and customs -- 19th century -- Drama'
+- !lcsh 'Gossip -- Drama'
+- !lcc 'PS'
+- !lcsh 'Comedies'
+title: 'Pirates: A comedy in one act'
+url: http://www.gutenberg.org/ebooks/39609
